@@ -1,13 +1,23 @@
 # Agile_Software_Development
- Agile Software Development project -  Refactor given code to allow extensive unit testing with JUnit.
- 
- Given code (InsuranceProgram.java) is refactored to support all common Junit test types and consolidated in a testing Suite class for convenience.
+ **Agile Software Development** 
 
-Initial pre-refactored code:
+In this project, we were given a program (InsuranceProgram.java) and our assignment was to refactor the code to support a wide variety of common J-Unit test types (eg. BeforeEach/All, AfterEach/All, Timeout, Test, ParameterizedTest, CsvSource, ValueSource etc.).
+
+---
+
+**Instructions:**
+
+* To observe this program locally, import the project directory into an IDE with J-Unit support (Eclipse was used to create the program).
+* SuiteTest.java can be run to perform all tests included and show final code coverage.
+---
+
+_Initial code prior to refactor:_
 
  ![Agile_image_1](screencaps/agile_(1).png)
 
- **Refactored Classes**
+---
+
+**Demonstration - Refactored Classes**
 
  Customer:
  
